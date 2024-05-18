@@ -15,5 +15,7 @@ fmt.Println("Hello world!");
 
 // syntax.Input()
 
-syntax.Gomap();
+// syntax.Gomap();
+
+syntax.GoSlice()
 }
