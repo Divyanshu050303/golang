@@ -13,5 +13,7 @@ fmt.Println("Hello world!");
 // syntax.StatementSs();
 // syntax.ArrayOperation();
 
-syntax.Input()
+// syntax.Input()
+
+syntax.Gomap();
 }
