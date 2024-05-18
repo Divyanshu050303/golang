@@ -1,7 +1,7 @@
 package syntax
 
 import (
-"fmt"
+	"fmt"
 )
 
 func DatType(){
@@ -14,3 +14,5 @@ func DatType(){
 
 fmt.Println("Data Type in golang");
 }
+
+ 
