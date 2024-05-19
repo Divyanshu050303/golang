@@ -15,6 +15,7 @@ func GoSlice() {
   fmt.Println("Slice from Array:", s, "Length:", len(s), "Capacity:", cap(s), "\n")
 
   // Create an empty slice, setting length and capacity
+
   m := make([]int, 3, 8)
   fmt.Println("Empty Slice:", m, "Length:", len(m), "Capacity:", cap(m), "\n")
 
